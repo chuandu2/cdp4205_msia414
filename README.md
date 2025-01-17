@@ -1,4 +1,4 @@
-# Text-Analytics-Independent-Project
+# Text Analytics Independent Project
 @Sophie Du
 
 
